@@ -1,0 +1,43 @@
+*{
+  margin:0;
+  box-sizing: border-box;
+}
+body{
+    text-align: center;
+    padding-top:160px;
+}
+
+h1{
+  font-weight: 400px;
+  font-size:43px;
+  line-height:80px;
+  color:rgb(5, 0, 0);
+
+
+}
+h1 span {
+    color:pink;
+}
+p {
+    font-size:17px;
+    line-height:24px;
+    margin-bottom: 72;
+    color:rgb(10, 0, 0);
+    opacity: .7;
+}
+a{
+  margin: 5px;
+  padding:14px;
+  height: 20px;
+  width: 20px;
+  border-radius: 15px;
+  line-height: 8;
+
+}
+
+.btn-primary{
+        color: rgb(237, 245, 245);
+        background-color: rgb(223, 0, 130);
+        text-decoration: none;
+        opacity: 1;
+    }
